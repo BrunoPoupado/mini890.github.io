@@ -6,7 +6,7 @@ http://www.bootstrapzero.com
 */
 
 @import url(https://fonts.googleapis.com/css?family=Questrial);
-@import url(http://fonts.googleapis.com/css?family=Dancing+Script:700);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script:700);
 html,
 body {
     width: 100%;
@@ -532,7 +532,7 @@ img::-moz-selection {
     width: 100%;
     background-color: #c9c9c9;
     filter: alpha(opacity=50);
-    background-image: url("../assets/arquitetura.jpg");
+    background-image: url("../assets/Arquitetura.jpg");
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
